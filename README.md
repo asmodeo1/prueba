@@ -7,6 +7,7 @@ Este es un repositorio de prueba.
 - tres
 - cuatro
 - cinco
+- seis
 
 ## Hola
 
